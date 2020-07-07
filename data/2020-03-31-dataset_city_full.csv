@@ -1,0 +1,31 @@
+,fever,respiratory,pneumonia,cough,headache,pain
+California,0,1,0,0,0,0
+San Diego,1,0,0,1,0,0
+Louisiana,0,1,0,0,0,0
+Manhattan,0,0,1,0,0,0
+Ann Arbor,0,0,0,1,0,0
+Atlanta,0,1,0,0,0,0
+Houston,0,0,0,0,0,1
+Mississippi,1,0,0,1,0,0
+Surprise,0,0,1,0,0,0
+Winston-Salem,0,1,0,0,0,0
+Minnetonka,0,1,0,0,0,0
+Loughman,0,0,0,1,0,0
+New Jersey,1,0,0,1,0,0
+Chicago,2,0,0,1,0,0
+Peru,0,1,0,0,0,0
+Marlboro,0,0,1,0,0,0
+Arkansas,0,0,0,0,0,1
+Bozeman,0,0,0,1,0,0
+North Carolina,1,0,0,0,0,0
+Chanhassen,0,1,0,0,0,0
+Florida,0,1,0,0,0,0
+Northampton,0,1,0,0,0,0
+Auburn,0,1,0,0,0,0
+Lake in the Hills,0,0,0,0,0,1
+Mililani Town,0,1,0,0,0,0
+Bronx,0,0,0,0,0,1
+Citrus Ridge,1,0,0,0,0,0
+Henderson,1,0,0,0,0,0
+Fairfield,0,0,0,0,0,1
+Boise,0,0,0,0,0,1

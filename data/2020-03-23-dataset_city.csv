@@ -1,0 +1,24 @@
+,fever,respiratory,pneumonia,cough,headache,pain
+Tacoma,0,0,0,1,0,0
+Norton Shores,0,0,0,0,0,1
+Michigan,0,0,0,0,0,1
+Portales,0,1,0,0,0,0
+Canton,1,0,0,0,0,0
+Texas,0,1,0,1,0,0
+Bellevue,0,1,0,0,0,0
+Philadelphia,1,0,0,0,0,0
+Virginia,0,0,0,1,0,0
+Tulsa,0,0,0,0,1,0
+Franconia,1,0,0,1,0,0
+Florida,0,1,0,0,0,0
+Hayward,3,0,0,0,0,0
+Dallas,0,1,0,1,0,0
+Orlando,0,1,0,0,0,0
+Danville,1,0,0,0,0,0
+Queens,0,0,0,0,1,0
+Sacramento,0,0,0,0,1,0
+Target,1,0,0,0,0,0
+Pennsylvania,0,0,0,1,0,0
+Los Angeles,1,0,0,0,0,0
+Durham,0,1,0,0,0,0
+Baltimore,0,1,0,0,0,0

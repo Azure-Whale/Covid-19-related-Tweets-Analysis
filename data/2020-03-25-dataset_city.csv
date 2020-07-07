@@ -1,0 +1,22 @@
+,fever,respiratory,pneumonia,cough,headache,pain
+Boise,0,1,0,0,0,0
+Springfield,0,0,0,1,0,0
+North Bethesda,1,0,0,0,0,0
+Georgia,0,0,1,0,0,0
+Virginia Beach,1,0,0,0,0,0
+Hampton Roads Orthopaedics & Sports Medicine,0,0,0,0,0,1
+Arcadia,0,0,0,1,0,0
+Salem,1,0,0,1,0,0
+Kirkwood,0,0,0,0,1,0
+Largo,0,0,0,1,0,0
+Pasadena,0,0,0,1,0,0
+Torrington,1,0,0,0,0,0
+California,0,0,0,1,0,0
+Houston,0,0,0,0,0,1
+Manhattan,1,1,0,0,0,0
+Los Angeles,0,1,0,0,0,1
+Washington,1,0,0,0,0,0
+Eugene,1,0,0,0,0,0
+Dallas,0,0,0,0,0,1
+Castaic,0,0,1,0,0,0
+Shreveport,0,0,0,0,0,1

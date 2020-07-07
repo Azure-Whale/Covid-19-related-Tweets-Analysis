@@ -1,0 +1,33 @@
+,fever,respiratory,pneumonia,cough,headache,pain
+Portland,1,0,0,0,0,0
+San Francisco,0,0,0,0,0,1
+Fullerton,0,0,0,1,0,0
+Atlanta,0,1,0,0,1,0
+Riverview,1,0,0,0,0,0
+Flint,0,0,0,0,1,0
+Little Rock,0,0,0,0,0,1
+Phoenix,0,0,0,0,1,0
+Orlando,1,0,0,0,0,0
+Cascade,1,0,0,0,0,0
+North Charleston,0,1,0,0,0,0
+Oak Lawn,1,0,0,0,0,0
+Cerritos,0,0,0,1,0,0
+Dallas,0,0,0,0,0,1
+Philadelphia,0,0,0,0,0,1
+Hillside,1,0,0,0,0,0
+West Palm Beach,0,0,0,1,0,0
+Jersey City,0,0,0,0,0,1
+Overland Park,0,0,0,1,0,1
+St Louis,0,0,0,1,0,0
+Los Angeles,0,0,1,1,0,0
+Baltimore,1,0,0,0,0,0
+Manhattan,1,0,0,1,0,0
+Yucaipa,0,0,1,0,0,0
+North Carolina,1,0,0,0,0,0
+East Point,0,0,0,0,0,1
+Wolcott,1,0,0,0,0,0
+Queens,0,0,0,1,0,0
+Sunnyside,0,1,0,0,0,0
+Tallahassee,1,0,0,0,0,0
+Austin,1,0,0,0,0,0
+Seattle,0,0,0,0,0,1

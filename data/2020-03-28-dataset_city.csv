@@ -1,0 +1,21 @@
+,fever,respiratory,pneumonia,cough,headache,pain
+Denver,1,0,0,0,0,0
+Salinas,0,0,0,1,0,0
+Fresno,0,1,0,0,0,0
+South Cleveland,0,0,0,1,0,0
+Los Angeles,1,0,0,0,0,2
+Spanish Fork,0,0,0,0,2,0
+Sterling Heights,0,1,0,0,0,0
+Ohio,1,0,0,0,0,0
+Durham,0,0,0,0,1,0
+Fort Lauderdale,0,0,1,0,0,0
+Virginia,0,1,0,0,0,0
+Minneapolis,0,0,0,0,0,1
+Memorial Hermann Medical Group Fairfield,0,0,1,0,0,0
+Lansing,1,0,0,0,0,0
+Texas,0,0,1,0,0,0
+Mount Laurel,0,0,0,0,0,1
+Fairdale,0,0,0,0,0,1
+Brooklyn,1,0,1,0,0,0
+Jersey City,1,0,0,0,0,0
+Vinings,0,0,0,1,0,0
