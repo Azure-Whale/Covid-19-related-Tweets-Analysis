@@ -8,7 +8,7 @@ Next, what we did is geting a symptoms data, I got the data from a medical dicti
 
 The final step is to do a match & count in our collected tweet, and try to find most common side-effects of Covid-19 talked by people on Twitter
 ## Results:
-By extracting and visualizing these data using Tableau, we try to learn things behind these daily tweets. Here is the frequency distribution of where people mentioned Covid-19 side-effects in their tweets. The distribution vary from one side-effect to another one.
+By extracting and visualizing these data using Tableau, we try to learn things behind these daily tweets. Here is the frequency distribution of where people mentioned Covid-19 side-effects in their tweets. The distribution vary from one side-effect to another one. We may not fine extra undiscovered side-effects, but we found that the differnet side-effetcts distribution is very differnt from others. Is that because the mutation of the Covid-19 or other reasons?
 
 ### Distribution of US
 ![alt text](https://github.com/Azure-Whale/Covid-19-related-Tweets-Analysis/blob/master/Images/City.png)
